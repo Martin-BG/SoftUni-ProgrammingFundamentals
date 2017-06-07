@@ -23,6 +23,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Longer Line", "09. Long
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Cube Properties", "10. Cube Properties\10. Cube Properties.csproj", "{D5FA7BB3-56FE-4FED-AC87-D00BDE4D22BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Geometry Calculator", "11. Geometry Calculator\11. Geometry Calculator.csproj", "{F2B70AF4-F616-45C5-98B6-482D30621C3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Master Number", "12. Master Number\12. Master Number.csproj", "{28766F56-A99C-49DA-B174-7C27A67D478B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Master Number - Slow", "12. Master Number - Slow\12. Master Number - Slow.csproj", "{5D61FA97-92E0-4C32-B043-2C99EFDF5540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Factorial", "13. Factorial\13. Factorial.csproj", "{E05ACA2A-B134-48AB-93A6-5202FB3ABEAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. Factorial Trailing Zeroes", "14. Factorial Trailing Zeroes\14. Factorial Trailing Zeroes.csproj", "{A97B7C96-E7DA-437F-A635-85B86DE8D090}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +79,26 @@ Global
 		{D5FA7BB3-56FE-4FED-AC87-D00BDE4D22BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5FA7BB3-56FE-4FED-AC87-D00BDE4D22BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5FA7BB3-56FE-4FED-AC87-D00BDE4D22BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2B70AF4-F616-45C5-98B6-482D30621C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B70AF4-F616-45C5-98B6-482D30621C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B70AF4-F616-45C5-98B6-482D30621C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B70AF4-F616-45C5-98B6-482D30621C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28766F56-A99C-49DA-B174-7C27A67D478B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28766F56-A99C-49DA-B174-7C27A67D478B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28766F56-A99C-49DA-B174-7C27A67D478B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28766F56-A99C-49DA-B174-7C27A67D478B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D61FA97-92E0-4C32-B043-2C99EFDF5540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D61FA97-92E0-4C32-B043-2C99EFDF5540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D61FA97-92E0-4C32-B043-2C99EFDF5540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D61FA97-92E0-4C32-B043-2C99EFDF5540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E05ACA2A-B134-48AB-93A6-5202FB3ABEAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E05ACA2A-B134-48AB-93A6-5202FB3ABEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E05ACA2A-B134-48AB-93A6-5202FB3ABEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E05ACA2A-B134-48AB-93A6-5202FB3ABEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A97B7C96-E7DA-437F-A635-85B86DE8D090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A97B7C96-E7DA-437F-A635-85B86DE8D090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A97B7C96-E7DA-437F-A635-85B86DE8D090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A97B7C96-E7DA-437F-A635-85B86DE8D090}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
