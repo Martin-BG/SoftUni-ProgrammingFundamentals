@@ -60,7 +60,7 @@ namespace _12.Master_Number
             int sum = 0;
             for (int i = 0; i < digits.Length; i++)
             {
-                sum += i;
+                sum += digits[i];
             }
 
             return sum % 7 == 0;
