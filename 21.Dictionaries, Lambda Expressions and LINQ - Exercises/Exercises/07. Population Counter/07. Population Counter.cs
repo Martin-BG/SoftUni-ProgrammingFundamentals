@@ -29,11 +29,11 @@ namespace _07.Population_Counter
                 line = Console.ReadLine();
             }
 
-            var countryListSorted = countries
+            countries = countries
                 .OrderByDescending(x => x.Value.Values.Sum())
-                .ToList();
+                .ToDictionary(x => x.Key, x => x.Value);
 
-            foreach (var country in countryListSorted)
+            foreach (var country in countries)
             {
                 var countryPopulation = country
                     .Value
