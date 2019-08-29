@@ -1,3 +1,3 @@
 # Programming Fundamentals
 
-[**Programming Fundamentals** course with C# at SoftUni  - May 2017](https://softuni.bg/trainings/1619/programming-fundamentals-may-2017)
+[**Programming Fundamentals** course at SoftUni with C#  - May 2017](https://softuni.bg/trainings/1619/programming-fundamentals-may-2017)
